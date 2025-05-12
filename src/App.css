@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 } */
+
+.item-result {
+	grid: 1fr 5fr;
+	gap: 10px;
+}
+
+h1 img {
+	height: 60px;
+	width: 60px;
+}

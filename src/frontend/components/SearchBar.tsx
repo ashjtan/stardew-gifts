@@ -1,10 +1,14 @@
 import axios from 'axios';
-import { useState } from 'react';
 
 const SEARCH_PLACEHOLDER = 'Item, villager';
 
 interface AutocompleteSuggestionsProps {
 	suggestions: string[];
+}
+
+interface SearchBarProps {
+	suggestions: string[];
+	onSuggestionsChange: (suggestions: string[]) => void;
 }
 
 function AutocompleteSuggestions({ suggestions }: AutocompleteSuggestionsProps) {
@@ -22,15 +26,14 @@ function AutocompleteSuggestions({ suggestions }: AutocompleteSuggestionsProps) 
 	);
 }
 
-export default function SearchBar() {
-	const [suggestions, setSuggestions] = useState<string[]>([]);
-
+export default function SearchBar({ suggestions, onSuggestionsChange }: SearchBarProps) {
 	// TODO: throttle/debounce, cache, especially for backspacing
-	async function fetchAutocompleteSuggestions(query: string) {
+	async function onSearch(query: string) {
+		// Fetch autocomplete suggestions
 		try {
 			const response = await axios.get(`http://localhost:3000/autocomplete?q=${query}`);
 			console.log(response.data);
-			setSuggestions(response.data);
+			onSuggestionsChange(response.data);
 		} catch (error) {
 			console.error('Error fetching autocomplete suggestions:', error);
 		}
@@ -43,13 +46,12 @@ export default function SearchBar() {
 				list=""
 				aria-label={SEARCH_PLACEHOLDER}
 				placeholder={SEARCH_PLACEHOLDER}
-				onChange={(e) => fetchAutocompleteSuggestions(e.target.value)}
+				onChange={(e) => onSearch(e.target.value)}
 			/>
-			<button type="submit">Search</button>
 
-			<div>
+			{/* <div>
 				<AutocompleteSuggestions suggestions={suggestions} />
-			</div>
+			</div> */}
 		</form>
 	);
 }

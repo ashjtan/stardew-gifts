@@ -2,46 +2,57 @@
 	{
 		"name": "abigail",
 		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png",
-		"spriteSrc": ""
+		"spriteSrc": "",
+		"loves": [
+			"Amethyst",
+			"Banana Pudding",
+			"Blackberry Cobbler",
+			"Chocolate Cake",
+			"Monster Compendium",
+			"Pufferfish",
+			"Pumpkin",
+			"Spicy Eel"
+		]
 	},
 	{
 		"name": "alex",
-		"imgSrc": "",
-		"spriteSrc": ""
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png",
+		"spriteSrc": "",
+		"loves": ["Complete Breakfast", "Jack Be Nimble, Jack Be Thick", "Salmon Dinner"]
 	},
 	{
 		"name": "caroline",
-		"imgSrc": "",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/8/87/Caroline.png",
 		"spriteSrc": ""
 	},
 	{
 		"name": "clint",
-		"imgSrc": "",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/3/31/Clint.png",
 		"spriteSrc": ""
 	},
 	{
 		"name": "demetrius",
-		"imgSrc": "",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Demetrius.png",
 		"spriteSrc": ""
 	},
 	{
 		"name": "dwarf",
-		"imgSrc": "",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Dwarf.png",
 		"spriteSrc": ""
 	},
 	{
 		"name": "evelyn",
-		"imgSrc": "",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Evelyn.png",
 		"spriteSrc": ""
 	},
 	{
 		"name": "emily",
-		"imgSrc": "",
+		"imgSrc": "https://stardewvalleywiki.com/Emily",
 		"spriteSrc": ""
 	},
 	{
 		"name": "elliot",
-		"imgSrc": "",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png",
 		"spriteSrc": ""
 	},
 	{
@@ -162,7 +173,8 @@
 	{
 		"name": "wizard",
 		"imgSrc": "",
-		"spriteSrc": ""
+		"spriteSrc": "",
+		"altQuery": "rasmodius"
 	},
 	{
 		"name": "willie",

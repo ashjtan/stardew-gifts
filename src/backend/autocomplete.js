@@ -52,6 +52,7 @@ const GIFTABLE_VILLAGERS = [
 
 const suggestions = GIFTABLE_VILLAGERS;
 
+// TODO: make this algo better by saving the most common queries of last 30 searches (i.e. once searched, stays on page for at least three seconds)
 app.get('/autocomplete', (req, res) => {
 	const query = req.query.q; // Get the query parameter from the request
 	if (!query) {
