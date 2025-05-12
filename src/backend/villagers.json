@@ -1,0 +1,189 @@
+[
+	{
+		"name": "abigail",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png",
+		"spriteSrc": "",
+		"loves": [
+			"Amethyst",
+			"Banana Pudding",
+			"Blackberry Cobbler",
+			"Chocolate Cake",
+			"Monster Compendium",
+			"Pufferfish",
+			"Pumpkin",
+			"Spicy Eel"
+		]
+	},
+	{
+		"name": "alex",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png",
+		"spriteSrc": "",
+		"loves": ["Complete Breakfast", "Jack Be Nimble, Jack Be Thick", "Salmon Dinner"]
+	},
+	{
+		"name": "caroline",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/8/87/Caroline.png",
+		"spriteSrc": ""
+	},
+	{
+		"name": "clint",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/3/31/Clint.png",
+		"spriteSrc": ""
+	},
+	{
+		"name": "demetrius",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Demetrius.png",
+		"spriteSrc": ""
+	},
+	{
+		"name": "dwarf",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Dwarf.png",
+		"spriteSrc": ""
+	},
+	{
+		"name": "evelyn",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Evelyn.png",
+		"spriteSrc": ""
+	},
+	{
+		"name": "emily",
+		"imgSrc": "https://stardewvalleywiki.com/Emily",
+		"spriteSrc": ""
+	},
+	{
+		"name": "elliot",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png",
+		"spriteSrc": ""
+	},
+	{
+		"name": "george",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "gus",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "haley",
+		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png",
+		"spriteSrc": ""
+	},
+	{
+		"name": "harvey",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "jas",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "jodi",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "kent",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "krobus",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "leo",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "lewis",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "leah",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "linus",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "maru",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "marnie",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "pam",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "penny",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "pierre",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "robin",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "sandy",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "sam",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "sebastian",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "shane",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "vincent",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "wizard",
+		"imgSrc": "",
+		"spriteSrc": "",
+		"altQuery": "rasmodius"
+	},
+	{
+		"name": "willie",
+		"imgSrc": "",
+		"spriteSrc": ""
+	},
+	{
+		"name": "willy",
+		"imgSrc": "",
+		"spriteSrc": ""
+	}
+]
