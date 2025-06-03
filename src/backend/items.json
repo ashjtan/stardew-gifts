@@ -1,12 +1,12 @@
-[
-	{
+{
+	"Complete Breakfast": {
 		"name": "Complete Breakfast",
 		"imgSrc": "",
 		"spriteSrc": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Complete_Breakfast.png"
 	},
-	{
+	"Jack Be Nimble, Jack Be Thick": {
 		"name": "Jack Be Nimble, Jack Be Thick",
 		"imgSrc": "",
 		"spriteSrc": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Jack_Be_Nimble%2C_Jack_Be_Thick.png"
 	}
-]
+}

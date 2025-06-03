@@ -1,5 +1,5 @@
-[
-	{
+{
+	"abigail": {
 		"name": "abigail",
 		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png",
 		"spriteSrc": "",
@@ -14,176 +14,173 @@
 			"Spicy Eel"
 		]
 	},
-	{
+	"alex": {
 		"name": "alex",
 		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png",
 		"spriteSrc": "",
 		"loves": ["Complete Breakfast", "Jack Be Nimble, Jack Be Thick", "Salmon Dinner"]
 	},
-	{
+	"caroline": {
 		"name": "caroline",
 		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/8/87/Caroline.png",
 		"spriteSrc": ""
 	},
-	{
+	"clint": {
 		"name": "clint",
 		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/3/31/Clint.png",
 		"spriteSrc": ""
 	},
-	{
+	"demetrius": {
 		"name": "demetrius",
 		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Demetrius.png",
 		"spriteSrc": ""
 	},
-	{
+	"dwarf": {
 		"name": "dwarf",
 		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Dwarf.png",
 		"spriteSrc": ""
 	},
-	{
+	"evelyn": {
 		"name": "evelyn",
 		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Evelyn.png",
 		"spriteSrc": ""
 	},
-	{
+	"emily": {
 		"name": "emily",
 		"imgSrc": "https://stardewvalleywiki.com/Emily",
 		"spriteSrc": ""
 	},
-	{
+	"elliot": {
 		"name": "elliot",
 		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png",
 		"spriteSrc": ""
 	},
-	{
+	"george": {
 		"name": "george",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"gus": {
 		"name": "gus",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"haley": {
 		"name": "haley",
 		"imgSrc": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png",
 		"spriteSrc": ""
 	},
-	{
+	"harvey": {
 		"name": "harvey",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"jas": {
 		"name": "jas",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"jodi": {
 		"name": "jodi",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"kent": {
 		"name": "kent",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"krobus": {
 		"name": "krobus",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"leo": {
 		"name": "leo",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"lewis": {
 		"name": "lewis",
 		"imgSrc": "",
-		"spriteSrc": ""
+		"spriteSrc": "",
+		"altQuery": ["mayor"]
 	},
-	{
+	"leah": {
 		"name": "leah",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"linus": {
 		"name": "linus",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"maru": {
 		"name": "maru",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"marnie": {
 		"name": "marnie",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"pam": {
 		"name": "pam",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"penny": {
 		"name": "penny",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"pierre": {
 		"name": "pierre",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"robin": {
 		"name": "robin",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"sandy": {
 		"name": "sandy",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"sam": {
 		"name": "sam",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"sebastian": {
 		"name": "sebastian",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"shane": {
 		"name": "shane",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"vincent": {
 		"name": "vincent",
 		"imgSrc": "",
 		"spriteSrc": ""
 	},
-	{
+	"wizard": {
 		"name": "wizard",
 		"imgSrc": "",
 		"spriteSrc": "",
 		"altQuery": "rasmodius"
 	},
-	{
-		"name": "willie",
-		"imgSrc": "",
-		"spriteSrc": ""
-	},
-	{
+	"willy": {
 		"name": "willy",
 		"imgSrc": "",
-		"spriteSrc": ""
+		"spriteSrc": "",
+		"altQuery": ["willie"]
 	}
-]
+}
